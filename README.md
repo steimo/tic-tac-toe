@@ -18,7 +18,3 @@ ruby game.rb
 ## How to play
 
 Two human players can play against each other, using mouse and selecting a square. In order to win the game, a player must place three of their marks in a horizontal, vertical, or diagonal row. 
-
-## Inspiration :rocket:
-
-My big interest in board games and a fun to solve problems. Also I wanted to learn how to work with library and classes, and was inspired by an implementation of this game by Ben Scheirman (https://github.com/subdigital/tic-tac-toe.)
